@@ -10,12 +10,12 @@ Criei um catálogo interativo onde:<br>
 ✅ Dados dinâmicos carregados via JavaScript<br>
 
 🛠️ Tecnologias Usadas
-Ferramenta	Função
-HTML	Estruturação do conteúdo
-CSS	Estilos e animações (grid, hover effects)
-JavaScript	Lógica de renderização dinâmica
+Ferramenta	Função<br>
+HTML	Estruturação do conteúdo<br>
+CSS	Estilos e animações (grid, hover effects)<br>
+JavaScript	Lógica de renderização dinâmica<br>
 ⚡ Funcionalidades
-Sistema toggle (mostrar/esconder conteúdo)
+Sistema toggle (mostrar/esconder conteúdo)<br>
 
 Efeitos interativos nos cards
 

@@ -4,7 +4,7 @@
 Preview do Catálogo
 
 🔍 Sobre o Projeto
-Criei um catálogo interativo onde:
+Criei um catálogo interativo onde:<br>
 ✅ Botão toggle mostra/oculta os carros
 ✅ Cards com efeitos visuais (hover, glassmorphism)
 ✅ Dados dinâmicos carregados via JavaScript

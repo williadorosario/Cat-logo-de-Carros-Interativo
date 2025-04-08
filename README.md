@@ -5,9 +5,9 @@ Preview do Catálogo
 
 🔍 Sobre o Projeto
 Criei um catálogo interativo onde:<br>
-✅ Botão toggle mostra/oculta os carros
-✅ Cards com efeitos visuais (hover, glassmorphism)
-✅ Dados dinâmicos carregados via JavaScript
+✅ Botão toggle mostra/oculta os carros<br>
+✅ Cards com efeitos visuais (hover, glassmorphism)<br>
+✅ Dados dinâmicos carregados via JavaScript<br>
 
 🛠️ Tecnologias Usadas
 Ferramenta	Função

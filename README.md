@@ -14,7 +14,7 @@ Ferramenta	Função<br>
 HTML	Estruturação do conteúdo<br>
 CSS	Estilos e animações (grid, hover effects)<br>
 JavaScript	Lógica de renderização dinâmica<br>
-⚡ Funcionalidades
+⚡Funcionalidades
 Sistema toggle (mostrar/esconder conteúdo)<br>
 
 Efeitos interativos nos cards
